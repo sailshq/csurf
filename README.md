@@ -2,10 +2,6 @@
 
 A fork of the [now deprecated](https://github.com/expressjs/csurf?tab=readme-ov-file#deprecated) csurf package with ongoing maintenance from the [Sails core team](http://sailsjs.com/about).
 
-[![NPM Version][npm-version-image]][npm-url]
-[![NPM Downloads][npm-downloads-image]][node-url]
-[![Build status][github-actions-ci-image]][github-actions-ci-url]
-[![Test coverage][coveralls-image]][coveralls-url]
 
 Node.js [CSRF][wikipedia-csrf] protection middleware.
 
