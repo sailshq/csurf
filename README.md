@@ -1,4 +1,6 @@
-# csurf
+# @sailshq/csurf
+
+A fork of the [now deprecated](https://github.com/expressjs/csurf?tab=readme-ov-file#deprecated) csurf package with ongoing maintenance from the [Sails core team](http://sailsjs.com/about).
 
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][node-url]
